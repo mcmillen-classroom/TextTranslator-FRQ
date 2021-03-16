@@ -15,6 +15,7 @@ public class TextTranslator {
       }
     }
 
+
     return term;
   }
 
